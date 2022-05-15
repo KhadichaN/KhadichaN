@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @KhadichaN
+- 👋 Hi, I’m Khadicha
 - 👀 I’m interested in frontend and anime
 - 🌱 I’m currently learning JS, VUE
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me khadcihabegim@yandex.com
 
 <!---
