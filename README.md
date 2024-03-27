@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Khadicha
 - 👀 I’m interested in frontend and anime
-- 🌱 I’m currently learning JS, VUE
-- 📫 How to reach me khadcihabegim@yandex.com
+- 📫 How to reach me khadciha_n@icloud.com
 
 <!---
 KhadichaN/KhadichaN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
