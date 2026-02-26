@@ -1,14 +1,14 @@
 # Hi, I'm Khadichabegim 👋
 
-Frontend Software Engineer with 3+ years of experience building scalable, high-performance web applications.
+Frontend Engineer building high-performance, scalable web applications with a focus on architecture and interactive data systems.
 
 ## 🧭 About Me
 
-- 3+ years working with **React** and **TypeScript**
-- Experience delivering government-level **GIS and data-intensive dashboards**
-- Focused on clean architecture (Feature-Sliced Design)
-- Strong emphasis on performance optimization and modular systems
-- Interested in WebGL, interactive 3D, and advanced frontend architecture
+- Working primarily with React and TypeScript
+- Building complex GIS and data-intensive platforms
+- Designing modular systems using Feature-Sliced Design
+- Focused on performance, clarity, and long-term maintainability
+- Exploring WebGL, 3D visualization, and advanced frontend patterns
 
 ## 🌍 Featured Project
 
