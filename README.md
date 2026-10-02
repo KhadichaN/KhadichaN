@@ -1,42 +1,34 @@
 # Hi, I'm Khadichabegim 👋
 
-Frontend Engineer building high-performance, scalable web applications with a focus on architecture and interactive data systems.
+Frontend Engineer working on complex web applications with a focus on architecture, performance, data, and interactive visualization.
 
-## 🧭 About Me
+## About Me
 
 - Working primarily with React and TypeScript
-- Building complex GIS and data-intensive platforms
-- Designing modular systems using Feature-Sliced Design
-- Focused on performance, clarity, and long-term maintainability
-- Exploring WebGL, 3D visualization, and advanced frontend patterns
+- Building data-intensive applications and complex frontend systems
+- Working with interactive 2D and 3D visualization
+- Interested in frontend architecture, performance, and maintainability
+- Regularly revisiting and improving existing solutions as projects evolve
+- Exploring deeper browser, rendering, and frontend system design concepts
 
-## 🌍 Featured Project
+## Tech Stack
 
-### Earthquake Map
+**Core**  
+React · TypeScript · JavaScript
 
-Interactive WebGL-based 3D globe visualizing global seismic activity.
+**State & Data**  
+TanStack Query · Zustand · REST API
 
-- Historical dataset (1900-2026, M ≥ 6)
-- Live-style "Last 7 Days" mode (USGS feed)
-- Built with Three.js + @react-three/fiber
-- Custom GLSL shaders for depth-based rendering
-- Client-side timeline playback with efficient data handling
+**3D & Visualization**  
+Three.js · React Three Fiber · ArcGIS Maps SDK for JavaScript · amCharts 5
 
-🔗 Live demo: https://earthquake-map-nine.vercel.app/  
-🔗 Repository: https://github.com/KhadichaN/earthquakePulseMap
+**Styling**  
+Tailwind CSS · SCSS
 
-## 🛠 Tech Stack
+**Architecture & Tooling**  
+Feature-Sliced Design · Vite · Git · Playwright · Web Workers
 
-**Core:**  
-React · TypeScript · JavaScript (ES6+)
+## Contact
 
-**3D & Visualization:**  
-Three.js · amCharts 5 · ArcGIS JS SDK
-
-**Architecture & Tools:**  
-Feature-Sliced Design · Vite · Webpack · Git · React Query
-
-## 📫 Contact
-
-Email: khadicha_n@icloud.com  
-LinkedIn: https://www.linkedin.com/in/khadicha-n
+Email: [khadicha_n@icloud.com](mailto:khadicha_n@icloud.com)  
+LinkedIn: [linkedin.com/in/khadicha-n](https://www.linkedin.com/in/khadicha-n)
