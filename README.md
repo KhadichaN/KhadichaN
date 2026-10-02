@@ -1,4 +1,4 @@
-# Hi, I'm Khadichabegim 👋
+# Hi, I'm Khadichabegim (Khadi) 👋
 
 Frontend Engineer working on complex web applications with a focus on architecture, performance, data, and interactive visualization.
 
